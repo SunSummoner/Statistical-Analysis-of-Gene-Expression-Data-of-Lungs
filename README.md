@@ -3,7 +3,7 @@
 This is a project I did during the course of my Probability and Statistics paper under Prof. Shobha Bagai.
 Gene expression analysis is a fundamental tool in bioinformatics, with the aim
 of understanding the genetic mechanisms that regulate the behavior of cells and
-organisms. GEO (Gene Expression Omnibus) GEO is a public functional genomics data repository which is used to access datasets of gene expression which
+organisms. GEO (Gene Expression Omnibus) GEO is a public functional genomics data repository which is used to access datasets of gene expression which
 were analysed using GEOquery library of R and GEO2R tool. One of the key
 approaches used in gene expression analysis is hypothesis testing, which allows
 researchers to compare different samples and determine if there are significant
